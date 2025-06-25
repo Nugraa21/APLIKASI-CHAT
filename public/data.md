@@ -1,0 +1,1 @@
+# Berberapa kumpulab data yang tidak masalah bila di akses public
